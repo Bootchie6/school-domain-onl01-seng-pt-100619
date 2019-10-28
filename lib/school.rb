@@ -1,5 +1,6 @@
 class School
   
-  ROSTER = {}
+  roster = {}
+  
 end
 
